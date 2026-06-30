@@ -149,9 +149,9 @@ La aplicación fue diseñada para funcionar correctamente en:
 
 > Agregá acá una captura de pantalla de la aplicación.
 
-```md
+md
 ![Captura](./public/captura.png)
-```
+
 
 ---
 
