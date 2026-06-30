@@ -147,9 +147,9 @@ La aplicación fue diseñada para funcionar correctamente en:
 
 # 📷 Vista previa
 
-> Agregá acá una captura de pantalla de la aplicación.
 
-md
+
+Vista previa de la página:
 ![Captura](./public/captura.png)
 
 
